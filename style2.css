@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+
+* {
+  font-family: 'Lato', sans-serif;
+  box-sizing: border-box;
+}
+
+.container {
+	margin: 70px 70px;
+	box-shadow: 0px 8px 20px 10px #efefef;
+}
+i {
+  padding: 0.4em;
+  display: inline-block;
+  border-radius: 80%;
+  background: #465c72;
+  color: #999;
+}
+ul {
+  text-align: center;
+}
+.contactMe ul li {
+  display: inline;
+}
+
+h1 {
+  font-size: 70px;
+  text-align: center;
+}
+h2 {
+  color: rgb(108, 104, 104);
+  font-size: 40px;
+  text-align: center;
+}
+
+h3 {
+	font-size: 40px;
+}
+
+h4, p {
+	font-size: 20px;
+}
+.container {
+  max-width: 100%;
+  color: #313234;
+  background-color: #bec4d0;
+  padding: 5em;
+  margin-top: ;
+}
+ul li h1, ul li p {
+  font-size: 15px;
+  text-align:left;
+}
+
+.circle {
+  list-style-type:circle;
+  text-align:left;
+  font-size: 20px;
+}
+hr.style1{
+	border-top: 3px solid #e9e1e1;
+}
+div ul{
+  padding-left:10px;
+}
+.FCC i:hover{
+  background-color:#0077B5
+}
+.LN i:hover{
+  background-color:#0077B5;
+}
+.codepen i:hover{
+  background-color:#0077B5;
+}
+.mail i:hover{
+  background-color:#0077B5;
+}
+.github i:hover{
+  background-color:#0077B5;
+}
+.btn-default:hover, .btn-default:active {
+  color:#999;
+  background-color:#4c4e50;
+}
+footer{
+ 
+  bottom: 0;
+  text-align: center;
+  width:100%;
+}
+footer i{
+  padding:0;
+  background-color:#EFEFEF;
+}
